@@ -1,0 +1,7 @@
+C:\Users\BIA\source\repos\FolderSynchronizer\obj\Debug\FolderSynchronizer.csproj.AssemblyReference.cache
+C:\Users\BIA\source\repos\FolderSynchronizer\obj\Debug\FolderSynchronizer.csproj.CoreCompileInputs.cache
+C:\Users\BIA\source\repos\FolderSynchronizer\bin\Debug\FolderSynchronizer.exe.config
+C:\Users\BIA\source\repos\FolderSynchronizer\bin\Debug\FolderSynchronizer.exe
+C:\Users\BIA\source\repos\FolderSynchronizer\bin\Debug\FolderSynchronizer.pdb
+C:\Users\BIA\source\repos\FolderSynchronizer\obj\Debug\FolderSynchronizer.exe
+C:\Users\BIA\source\repos\FolderSynchronizer\obj\Debug\FolderSynchronizer.pdb
